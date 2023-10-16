@@ -7,7 +7,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZGZiNmJhOTMtODI5NC00MjQwLTk1OGQtOGUzZGIxZjJlZjZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Report Link][https://app.powerbi.com/view?r=eyJrIjoiZGZiNmJhOTMtODI5NC00MjQwLTk1OGQtOGUzZGIxZjJlZjZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 ## Tech stacks
 
